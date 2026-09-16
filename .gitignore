@@ -1,0 +1,9 @@
+dist
+dist/*
+build/*
+build
+
+/**/*.spec
+/**/*.txt
+
+__pycache__
